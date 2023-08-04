@@ -1,6 +1,7 @@
 # spatial_pathomics
 Spatial pathomics toolbox
 
+A step-by-step instructional video: [Spatial Pathomics](https://www.youtube.com/watch?v=yNjjyNKQzck).
 
 ## Segmentation and Load  annoation 
 
